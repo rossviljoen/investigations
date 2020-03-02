@@ -13,6 +13,9 @@ import numpy as np
 # What is the best strategy to follow?
 #
 # O(popSize^2 * generations)
+#
+# Seems like it disengages periodically - why?
+#
 def evolveNash(popSize, generations):
     # Record mean cutoff per generation (is there a better metric?)
     p1Means = []
