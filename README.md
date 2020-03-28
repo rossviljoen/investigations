@@ -1,5 +1,5 @@
 # quantfin
-Experiments in Quantitative Finance, Economics, Game Theory, Decision Theory, Probability and Statistics  
+Miscellaneous Experiments in Quantitative Finance, Economics, Game Theory, Decision Theory, Probability and Statistics etc...
 
 Some references used:  
 De Prado, M.L., 2018. Advances in financial machine learning. John Wiley & Sons.  
